@@ -19,11 +19,11 @@ Model Deployment: Once satisfied with the model's performance, we deploy it for 
 
 Key Concepts Covered:
 
-Cross-validation
-Train-test splitting
-Stratified shuffle split
-Handling missing values
-Feature selection
+Cross-validation,
+Train-test splitting,
+Stratified shuffle split,
+Handling missing values,
+Feature selection,
 Model evaluation metrics
 
 
